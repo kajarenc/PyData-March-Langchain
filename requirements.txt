@@ -1,2 +1,5 @@
 langchain
 langchain-openai
+langchain-community
+docarray
+tiktoken
